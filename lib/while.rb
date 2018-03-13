@@ -4,7 +4,7 @@ def using_while
 	while levitation_force < 10
 	  puts "Your force is less than 10"
 	  levitation_force += 10
-	  
+	end
 end
 
 
